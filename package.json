@@ -31,7 +31,7 @@
     "*.{md}": "markdownlint"
   },
   "devDependencies": {
-    "@actions/core": "^1.3.0",
+    "@actions/core": "^1.9.1",
     "@nuxt/content": "^1.14.0",
     "@nuxt/http": "^0.6.4",
     "@nuxtjs/color-mode": "^2.0.9",
@@ -66,7 +66,7 @@
     "lodash.groupby": "^4.6.0",
     "lodash.sortby": "^4.7.0",
     "markdownlint-cli": "^0.27.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "npm-run-all": "^4.1.5",
     "nuxt-edge": "^2.16.0-27031694.f4a6b384",
     "nuxt-i18n": "^6.27.0",
